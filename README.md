@@ -2,9 +2,12 @@
 
 Herramienta completa para extraer y analizar datos de archivos `.raw` de **Waters MassLynx**, incluyendo transiciones MRM con toda su información asociada.
 
-![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-SDK-green.svg)
-![Status](https://img.shields.io/badge/status-production-brightgreen.svg)
+[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-production-brightgreen.svg)](https://github.com/gustavoamos/Masslynx-Reader)
+[![GitHub release](https://img.shields.io/github/v/release/gustavoamos/Masslynx-Reader)](https://github.com/gustavoamos/Masslynx-Reader/releases)
+
+> **🎯 Extrae Q1, Q3, nombres de compuestos, CE, CV y cromatogramas completos de archivos MassLynx .raw**
 
 ---
 
