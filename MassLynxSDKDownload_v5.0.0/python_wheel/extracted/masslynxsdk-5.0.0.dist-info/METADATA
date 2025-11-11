@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: masslynxsdk
+Version: 5.0.0
+Summary: MassLynx SDK
+Home-page: waters.com
+Author: Waters Corporation
+Requires-Python: >=3.8
+License-File: LICENSE
+
